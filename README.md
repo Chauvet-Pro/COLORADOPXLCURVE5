@@ -1,6 +1,8 @@
 # COLORado PXL Curve 5 
 ## Software Versions
 
+_Please Note: Software versioning standards have changed. Formerly, software versions corresponded to date of release. Software versions are now ordered numerically_
+
 [V1.00.006 - COLORado PXL Curve 5](https://github.com/Chauvet-Pro/COLORADOPXLCURVE5/blob/cef3e70f7733948d052c8d0feeeda1f3ba831b3b/Firmware/V1.00.006.zip)
 - Enables NFC Functions
 - Updates Strobe Features to improve performance
